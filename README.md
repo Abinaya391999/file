@@ -1,2 +1,2 @@
 # file
-pro file
+pro file for git commands
